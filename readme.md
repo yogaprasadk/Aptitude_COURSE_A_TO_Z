@@ -20,4 +20,14 @@
 <h3>Video 6</h3>
 <a href="https://youtu.be/O4wUdeY7JoE"><img src="https://github.com/user-attachments/assets/aa15917a-acd0-443e-801f-f4b8523a3064"/></a>
 <hr/>
-
+<h1>Problems on Ages</h1>
+<br/>
+<h3>Video 1</h3>
+<a href="https://youtu.be/6tuFW7P9WaY"><img src="https://github.com/user-attachments/assets/6a5b792f-8dc1-4f04-8f10-41cfe35ea6ae"/></a>
+<h3>Video 2</h3>
+<a href="https://youtu.be/HoCljJREaOA"><img src="https://github.com/user-attachments/assets/5278fee5-1485-4559-a2e9-d78f5d9195f9"/></a>
+<h3>Video 3</h3>
+<a href="https://youtu.be/I35hEUt2mDE"><img src="https://github.com/user-attachments/assets/8bd6ea57-fbcb-44c4-8d39-5b0390508494"/></a>
+<h3>Video 4</h3>
+<a href="https://youtu.be/M10Vda6dRzE"><img src="https://github.com/user-attachments/assets/18cc4402-2dbe-466c-840d-1936037b0bc1"/></a>
+<hr/>

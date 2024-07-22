@@ -38,5 +38,5 @@
 <a href="https://youtu.be/0_Xs_5CDw_E"><img src="https://github.com/user-attachments/assets/53d001ef-112e-4031-b842-0de7646144a6"/></a>
 <h3>Video 3</h3>
 <a href="https://youtu.be/xcGtrUNUE6w"><img src="https://github.com/user-attachments/assets/aebd1f63-1896-4c58-b17a-90105d37f0bc"></a>
-<h3>Vide 4</h3>
+<h3>Video 4</h3>
 <a href="https://youtu.be/_qEBewkJUaA"><img src="https://github.com/user-attachments/assets/6671e008-46cd-42ca-b5a7-01232c2e6cf3"></a>

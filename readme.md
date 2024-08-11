@@ -40,3 +40,13 @@
 <a href="https://youtu.be/xcGtrUNUE6w"><img src="https://github.com/user-attachments/assets/aebd1f63-1896-4c58-b17a-90105d37f0bc"></a>
 <h3>Video 4</h3>
 <a href="https://youtu.be/_qEBewkJUaA"><img src="https://github.com/user-attachments/assets/6671e008-46cd-42ca-b5a7-01232c2e6cf3"></a>
+<br/>
+<h1>Time and Distance</h1>
+<h3>Video 1</h3>
+<a href="https://youtu.be/lFHjNbSmsCE"><img src="https://github.com/user-attachments/assets/06076bbb-ddcc-4305-96cb-df40095ba70e"></a>
+<h3>Video 2</h3>
+<a href="https://youtu.be/pQKu4GXZ5nY"><img src="https://github.com/user-attachments/assets/0a541a16-6c67-406f-b194-ed1f4448c181"/></a>
+<h3>Video 3</h3>
+<a href="https://youtu.be/5dn52c7e114"><img src="https://github.com/user-attachments/assets/fd94b1aa-a6dd-4799-903f-6b538238ba5d"/></a>
+<h3>Video 4</h3>
+<a href="https://youtu.be/4l8b5ae5IPY"><img src="https://github.com/user-attachments/assets/f020a0a1-b459-42f9-a7e8-f8e69a007b1d"></a>

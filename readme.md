@@ -50,3 +50,10 @@
 <a href="https://youtu.be/5dn52c7e114"><img src="https://github.com/user-attachments/assets/fd94b1aa-a6dd-4799-903f-6b538238ba5d"/></a>
 <h3>Video 4</h3>
 <a href="https://youtu.be/4l8b5ae5IPY"><img src="https://github.com/user-attachments/assets/f020a0a1-b459-42f9-a7e8-f8e69a007b1d"></a>
+<br/>
+<h1>problems on Trains</h1>
+<h3>Video 1</h3>
+<a href="https://youtu.be/tZ2eRwVF-tM"><img src="https://github.com/user-attachments/assets/957376be-da8a-4eed-bfe4-8eafff229684"/></a>
+<h3>Video 2</h3>
+<a href="https://youtu.be/eXdySaoL2Fs"><img src="https://github.com/user-attachments/assets/77190696-9c0d-4d57-ba1e-98ba2acf1aed"/></a>
+

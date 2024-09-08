@@ -79,11 +79,26 @@
 <h1>Trignomentry</h1>
 <h3>Video 1</h3>
 <a href="https://youtu.be/zApfhBgQd_Y"><img src="https://github.com/user-attachments/assets/4cd2be16-46f9-47e9-a0f1-1cb38995f9ab"/></a>
-  
-<h3>Video 2</h3>
+  <h3>Video 2</h3>
   <a href="https://youtu.be/Wkil_7WTToY"><img src="https://github.com/user-attachments/assets/be33a403-c9b1-4a4b-9ee8-440803354801"/></a>
 <h3>Video 3</h3>
     <a href="https://youtu.be/HzvD5C2NTU0"><img src="https://github.com/user-attachments/assets/fcec4c15-3a26-4215-abfa-588f0e169d41"/></a>
 <h3>Video 4</h3>
 <a href="https://youtu.be/pZEYLqItqOY"><img src="https://github.com/user-attachments/assets/06ffd65f-c2fa-4567-aa83-981fe6c0c7e4"/></a>
 
+<h1>Compund Interest</h1>
+<h3>Video 1</h3>
+<a href="https://youtu.be/RhCwy2j2pHY"><img src="https://github.com/user-attachments/assets/c0e48211-956b-4b4f-bf38-eef8f70654fb"/></a>
+<h3>Video 2</h3>
+<a href="https://youtu.be/8YgraVgEPqw"><img src="https://github.com/user-attachments/assets/125e9715-1c3f-4b43-861c-c7d5c658476c"/></a>
+<h3>Video 3</h3>
+<a href="https://youtu.be/ZZU00eGnE1Y"><img src="https://github.com/user-attachments/assets/b9154c61-ff49-4f3e-b47e-f1a0f0a5876b"/></a>
+<h3>Video 4</h3>
+<a href="https://youtu.be/9Ft2t4LlxPo"><img src="https://github.com/user-attachments/assets/607bf275-a461-49b3-b10b-13baa37fe541"/></a>
+<h3>Vdeo 5</h3>
+<a href="https://youtu.be/K-_L8lhbb6w"><img src="https://github.com/user-attachments/assets/e539cc31-9c08-4016-b04a-9c896d7f31ab"/></a>
+<h3>Video 6</h3>
+<a href="https://youtu.be/lwIF6Mkblbs"><img src="https://github.com/user-attachments/assets/34844369-96f2-459f-8d7b-f76e00149fe2"/></a>
+<h3>Video 7</h3>
+<a href="https://youtu.be/BtmOYDLvcC4"><img src="https://github.com/user-attachments/assets/3eb116a7-bbe0-47d1-9000-8e894f8579f3"/></a>
+"/></a>
